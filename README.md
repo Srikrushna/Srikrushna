@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Srikrushna
-- 👀 I’m interested in ...React
+- 👀 I work in SharePoint
 
 <!---
 Srikrushna/Srikrushna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
